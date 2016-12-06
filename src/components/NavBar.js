@@ -8,6 +8,7 @@ class NavBar extends Component {
 	    return (
 	    	<div id="sidebar" className="NavBar">
 			    <Rob />
+			    
 			</div>
 		);
   	}
